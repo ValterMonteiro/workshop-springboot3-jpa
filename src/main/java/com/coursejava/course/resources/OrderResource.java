@@ -1,4 +1,4 @@
-package com.coursejava.course.Resources;
+package com.coursejava.course.resources;
 
 import java.util.List;
 
